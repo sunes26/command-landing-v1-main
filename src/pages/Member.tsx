@@ -46,25 +46,25 @@ const Member: React.FC = () => {
                     >
                       <Profile
                         name="손승욱"
-                        image="/profile_image/profile1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="박지민"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김다애"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="한도명"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
@@ -75,19 +75,19 @@ const Member: React.FC = () => {
                     >
                       <Profile
                         name="김시윤"
-                        image="/profile_image/profile1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김민준"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김슬호"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
@@ -113,37 +113,37 @@ const Member: React.FC = () => {
                     >
                       <Profile
                         name="김민서"
-                        image="/profile_image/profile1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김기범"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김영민"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="전해성"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="안준형"
-                        image="/profile_image/profile1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="오진우"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
@@ -154,31 +154,31 @@ const Member: React.FC = () => {
                     >
                       <Profile
                         name="신준현"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="조용주"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="이건우"
-                        image="/profile_image/profile1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김지안"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="오지민"
-                        image="/images/background1.png"
+                        image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
