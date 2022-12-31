@@ -517,7 +517,7 @@ const Home: React.FC = () => {
               ]}
             />
           </Container>
-          <Foot>Copyright Command 2021. All rights reserved.</Foot>
+          <Foot>Copyright Command 2022. All rights reserved.</Foot>
         </>
       ) : (
         <img style={{ width: '100%' }} src="/images/mobile.png" alt="mobile" />
