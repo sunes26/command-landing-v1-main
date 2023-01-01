@@ -46,13 +46,13 @@ const Member: React.FC = () => {
                     >
                       <Profile
                         name="손승욱"
-                        image="/profile_image/No_Image.jpg"
+                        image="/profile_image/sonseunguk.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="박지민"
-                        image="/profile_image/No_Image.jpg"
+                        image="/profile_image/parkjimin.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
@@ -75,13 +75,13 @@ const Member: React.FC = () => {
                     >
                       <Profile
                         name="김시윤"
-                        image="/profile_image/No_Image.jpg"
+                        image="/profile_image/kimsiyun.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김민준"
-                        image="/profile_image/No_Image.jpg"
+                        image="/profile_image/kimminjun.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
@@ -113,19 +113,19 @@ const Member: React.FC = () => {
                     >
                       <Profile
                         name="김민서"
-                        image="/profile_image/No_Image.jpg"
+                        image="/profile_image/kimminseo.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김기범"
-                        image="/profile_image/No_Image.jpg"
+                        image="/profile_image/kimkibum.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
                         name="김영민"
-                        image="/profile_image/No_Image.jpg"
+                        image="/profile_image/kimyeongmin.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
@@ -172,7 +172,7 @@ const Member: React.FC = () => {
                       />
                       <Profile
                         name="김지안"
-                        image="/profile_image/No_Image.jpg"
+                        image="/profile_image/kimjian.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
