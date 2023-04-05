@@ -39,13 +39,13 @@ const Member: React.FC = () => {
                 amount: 0,
                 children: (
                   <Container>
-                    <h1>1기</h1>
+                    <h1>19기</h1>
                     <ProfileContainer
                       data-aos="fade-right"
                       data-aos-delay="300"
                     >
                       <Profile
-                        name="손승욱"
+                        name="손승욱(동장)"
                         image="/profile_image/sonseunguk.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
@@ -74,7 +74,7 @@ const Member: React.FC = () => {
                       data-aos-delay="600"
                     >
                       <Profile
-                        name="김시윤"
+                        name="김시윤(개발팀장)"
                         image="/profile_image/kimsiyun.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
@@ -106,19 +106,19 @@ const Member: React.FC = () => {
                 amount: 0,
                 children: (
                   <Container>
-                    <h1>2기</h1>
+                    <h1>20기</h1>
                     <ProfileContainer
                       data-aos="fade-right"
                       data-aos-delay="300"
                     >
                       <Profile
-                        name="김민서"
+                        name="김민서(동장)"
                         image="/profile_image/kimminseo.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
                       <Profile
-                        name="김기범"
+                        name="김기범(디자인팀장)"
                         image="/profile_image/kimkibum.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
@@ -130,19 +130,7 @@ const Member: React.FC = () => {
                         data-aos-duration="1000"
                       />
                       <Profile
-                        name="전해성"
-                        image="/profile_image/No_Image.jpg"
-                        data-aos="fade-up"
-                        data-aos-duration="1000"
-                      />
-                      <Profile
-                        name="안준형"
-                        image="/profile_image/No_Image.jpg"
-                        data-aos="fade-up"
-                        data-aos-duration="1000"
-                      />
-                      <Profile
-                        name="오진우"
+                        name="전해성(개발팀장)"
                         image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
@@ -153,11 +141,43 @@ const Member: React.FC = () => {
                       data-aos-delay="600"
                     >
                       <Profile
+                        name="안준형(부동장)"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
+                        name="오진우"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
                         name="신준현"
                         image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                       />
+                    </ProfileContainer>
+                  </Container>
+
+                ),
+              },
+            ]}
+          />
+          <ParallaxBanner
+            style={{ height: '100vh' }}
+            layers={[
+              {
+                image: '/images/background3.png',
+                amount: 0,
+                children: (
+                  <Container>
+                    <h1>21기</h1>
+                    <ProfileContainer
+                      data-aos="fade-right"
+                      data-aos-delay="300"
+                    >
                       <Profile
                         name="조용주"
                         image="/profile_image/No_Image.jpg"
@@ -178,6 +198,97 @@ const Member: React.FC = () => {
                       />
                       <Profile
                         name="오지민"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                    </ProfileContainer>
+                    <ProfileContainer
+                      data-aos="fade-left"
+                      data-aos-delay="300"
+                    >
+                      <Profile
+                        name="박나연"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
+                        name="서지오"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
+                        name="송지연"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                    </ProfileContainer>
+                  </Container>
+
+                ),
+              },
+            ]}
+          />
+
+          <ParallaxBanner
+            style={{ height: '100vh' }}
+            layers={[
+              {
+                image: '/images/background3.png',
+                amount: 0,
+                children: (
+                  <Container>
+                    <h1>22기</h1>
+                    <ProfileContainer
+                      data-aos="fade-right"
+                      data-aos-delay="300"
+                    >
+                      <Profile
+                        name="박태건"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
+                        name="이윤주"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
+                        name="이재강"
+                        image="/profile_image/No_image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
+                        name="이혜림"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                    </ProfileContainer>
+                    <ProfileContainer
+                      data-aos="fade-left"
+                      data-aos-delay="300"
+                    >
+                      <Profile
+                        name="이채은"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
+                        name="최우주"
+                        image="/profile_image/No_Image.jpg"
+                        data-aos="fade-up"
+                        data-aos-duration="1000"
+                      />
+                      <Profile
+                        name="정준영"
                         image="/profile_image/No_Image.jpg"
                         data-aos="fade-up"
                         data-aos-duration="1000"
